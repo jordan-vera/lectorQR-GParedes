@@ -1,0 +1,7 @@
+{
+  "name": "exportadora-banano-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
